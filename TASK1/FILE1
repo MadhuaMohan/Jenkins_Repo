@@ -1,2 +1,9 @@
-THIS IS THE TASK GIVER FOR THE DEVOPS CERTIFICATION
+Example: Python if Statement
+number = 10
+
+# check if number is greater than 0
+if number > 0:
+    print('Number is positive')
+
+print('This statement always executes')
 
